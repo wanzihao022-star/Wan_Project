@@ -1,0 +1,5 @@
+
+#ifndef QD4310_MYTASK_H
+#define QD4310_MYTASK_H
+
+#endif //QD4310_MYTASK_H
